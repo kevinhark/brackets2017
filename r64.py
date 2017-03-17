@@ -4,7 +4,7 @@ name = "Round of 64"
 
 winners = (
     # South
-    None, #'Villanova', 'Mount St Marys',
+    'Villanova',
     None, #'Wisconsin', 'Virginia Tech',
     'Virginia',
     'Florida',
@@ -18,16 +18,16 @@ winners = (
     'Northwestern',
     'Notre Dame',
     'West Virginia',
-    None, #'Maryland', 'Xavier',
+    'Xavier',
     None, #'Florida St', 'Florida GC',
-    None, #'St Marys', 'VCU',
+    'St Marys',
     None, #'Arizona', 'North Dakota',
 
     # East
     None, #'Kansas', 'UC Davis',
     None, #'Miami', 'Michigan St',
     None, #'Iowa St', 'Nevada',
-    None, #'Purdue', 'Vermont',
+    'Purdue',
     None, #'Creighton', 'Rhode Island',
     None, #'Oregon', 'Iona',
     None, #'Michigan', 'Oklahoma St',
