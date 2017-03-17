@@ -7,7 +7,7 @@ winners = (
     None, #'Villanova', 'Mount St Marys',
     None, #'Wisconsin', 'Virginia Tech',
     'Virginia',
-    None, #'Florida', 'E Tenn St',
+    'Florida',
     None, #'SMU', 'USC',
     None, #'Baylor', 'New Mexico St',
     None, #'South Carolina', 'Marquette',
@@ -15,9 +15,9 @@ winners = (
 
     # West
     'Gonzaga',
-    None, #'Northwestern', 'Vanderbilt',
+    'Northwestern',
     'Notre Dame',
-    None, #'West Virginia', 'Bucknell',
+    'West Virginia',
     None, #'Maryland', 'Xavier',
     None, #'Florida St', 'Florida GC',
     None, #'St Marys', 'VCU',
@@ -36,7 +36,7 @@ winners = (
     # Midwest
     None, #'UNC', 'Texas So',
     None, #'Arkansas', 'Seton Hall',
-    None, #'Minnesota', 'MTSU',
+    'MTSU',
     'Butler',
     None, #'Cincinnati', 'Kansas St',
     None, #'UCLA', 'Kent St',
