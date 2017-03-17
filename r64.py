@@ -9,7 +9,7 @@ winners = (
     'Virginia',
     'Florida',
     None, #'SMU', 'USC',
-    None, #'Baylor', 'New Mexico St',
+    'Baylor',
     None, #'South Carolina', 'Marquette',
     None, #'Duke', 'Troy',
 
@@ -29,13 +29,13 @@ winners = (
     'Iowa St',
     'Purdue',
     None, #'Creighton', 'Rhode Island',
-    None, #'Oregon', 'Iona',
-    None, #'Michigan', 'Oklahoma St',
+    'Oregon',
+    'Michigan',
     None, #'Louisville', 'Jacksonville St',
 
     # Midwest
     None, #'UNC', 'Texas So',
-    None, #'Arkansas', 'Seton Hall',
+    'Arkansas',
     'MTSU',
     'Butler',
     None, #'Cincinnati', 'Kansas St',
