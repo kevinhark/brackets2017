@@ -4,28 +4,28 @@ name = "Round of 32"
 
 winners = (
     # South
-    'Villanova', 'Wisconsin',
-    'Virginia', 'Florida',
-    'USC', 'Baylor',
-    'South Carolina', 'Duke',
+    None, #'Villanova', 'Wisconsin',
+    None, #'Virginia', 'Florida',
+    None, #'USC', 'Baylor',
+    None, #'South Carolina', 'Duke',
 
     # West
-    'Gonzaga', 'Northwestern',
-    'Notre Dame', 'West Virginia',
-    'Xavier', 'Florida St',
-    'St Marys', 'Arizona',
+    None, #'Gonzaga', 'Northwestern',
+    'West Virginia',
+    None, #'Xavier', 'Florida St',
+    None, #'St Marys', 'Arizona',
 
     # East
-    'Kansas', 'Michigan St',
-    'Iowa St', 'Purdue',
-    'Rhode Island', 'Oregon',
-    'Michigan', 'Louisville',
+    None, #'Kansas', 'Michigan St',
+    None, #'Iowa St', 'Purdue',
+    None, #'Rhode Island', 'Oregon',
+    None, #'Michigan', 'Louisville',
 
     # Midwest
-    'UNC', 'Arkansas',
-    'MTSU', 'Butler',
-    'Cincinnati', 'UCLA',
-    'Wichita St', 'Kentucky',
+    None, #'UNC', 'Arkansas',
+    None, #'MTSU', 'Butler',
+    None, #'Cincinnati', 'UCLA',
+    None, #'Wichita St', 'Kentucky',
 )
 
 
@@ -33,32 +33,32 @@ picks= {
 
 'Chris':
 (
-     'Villanova', 'Wisconsin', 'UNC Wilmington', 'Florida', 'SMU', 'Baylor', 'South Carolina', 'Duke',
-     'Gonzaga', 'Vanderbilt', 'Notre Dame', 'West Virginia', 'Xavier', 'Florida St', 'VCU','Arizona',
-     'Kansas', 'Michigan St', 'Iowa St', 'Purdue', 'Creighton', 'Oregon', 'Michigan', 'Louisville',
-     'UNC',  'Arkansas', 'Minnesota', 'Butler', 'Cincinnati', 'UCLA', 'Dayton', 'Kentucky',
- ),
+    'Villanova', 'Virginia', 'USC', 'Duke',
+    'Gonzaga', 'West Virginia', 'Florida St', 'St Marys',
+    'Michigan St', 'Iowa St', 'Oregon', 'n/a',
+    'UNC', 'Butler', 'UCLA','Kentucky',
+),
 
 'Justin':
 (
-    'Villanova', 'Wisconsin', 'Virginia', 'E Tenn St', 'SMU', 'Baylor', 'Marquette', 'Duke',
-    'Gonzaga', 'Vanderbilt', 'Notre Dame', 'Bucknell', 'Xavier', 'Florida St', 'St Marys','Arizona',
-    'Kansas', 'Miami', 'Nevada', 'Vermont', 'Rhode Island', 'Oregon', 'Oklahoma St', 'Louisville',
-    'UNC',  'Seton Hall', 'MTSU', 'Butler', 'Cincinnati', 'Kent St', 'Wichita St', 'Kentucky',
+    'Villanova', 'Virginia', 'USC', 'Duke',
+    'Gonzaga', 'Notre Dame', 'Xavier', 'Arizona',
+    'Kansas', 'Purdue', 'Oregon', 'Louisville',
+    'UNC', 'Butler', 'UCLA', 'Wichita St',
 ),
 
 'Jerry':
 (
-    'Villanova', 'Wisconsin', 'Virginia', 'Florida', 'USC', 'Baylor', 'Marquette','Duke',
-    'Gonzaga', 'Vanderbilt', 'Notre Dame', 'Bucknell', 'Xavier', 'Florida St', 'VCU', 'Arizona',
-    'Kansas', 'Michigan St', 'Iowa St', 'Purdue', 'Rhode Island', 'Oregon', 'Michigan', 'Louisville',
-    'UNC', 'Seton Hall', 'Minnesota', 'Winthrop', 'Cincinnati', 'UCLA', 'Dayton', 'Kentucky',
+    'Wisconsin', 'n/a', 'Baylor', 'Duke',
+    'Gonzaga','Notre Dame', 'Xavier', 'St Marys',
+    'Kansas', 'Purdue', 'Oregon', 'Michigan',
+    'UNC', 'Butler', 'UCLA', 'Kentucky',
 ),
 
 'Jessica':
 (
      'Villanova','Virginia','Baylor','Duke',
-     'Gonzaga','Norte Dame','Xavier','Arizona',
+     'Gonzaga','Notre Dame','Xavier','Arizona',
      'Kansas','Purdue','Oregon','Louisville',
      'UNC','MTSU','UCLA','Kentucky',
 ),
@@ -67,40 +67,40 @@ picks= {
 (
      'Villanova', 'Virginia', 'Baylor', 'Duke',
      'Gonzaga', 'West Virginia', 'Florida St', 'Arizona',
-     'Kansas', 'Iowa state', 'Oregon', 'Michigan',
+     'Kansas', 'Iowa St', 'Oregon', 'Michigan',
      'UNC', 'Butler', 'UCLA', 'Kentucky',
 ),
 
 'Victor':
 (
-    'Villanova', 'Virginia Tech', 'Virginia', 'Florida', 'USC', 'Baylor', 'South Carolina', 'Duke',
-    'Gonzaga', 'Vanderbilt', 'Notre Dame', 'West Virginia', 'Maryland', 'Florida St', 'VCU', 'Arizona',
-    'Kansas', 'Michigan St', 'Iowa St', 'Purdue', 'Rhode Island', 'Oregon', 'Oklahoma St', 'Louisville',
-    'UNC', 'Arkansas', 'MTSU', 'Butler', 'Cincinnati', 'UCLA', 'Wichita St', 'Kentucky',
+    'Villanova','Virginia','Baylor','Duke',
+    'Gonzaga','Notre Dame','Florida St','Arizona',
+    'Kansas','Purdue','Oregon','Louisville',
+    'UNC','Butler','UCLA','Kentucky',
 ),
 
 'Kristin':
 (
-     'Villanova', 'Virginia Tech', 'Virginia', 'E Tenn St', 'SMU', 'Baylor', 'Marquette', 'Duke',
-     'Gonzaga', 'Vanderbilt', 'Notre Dame', 'West Virginia', 'Maryland', 'Florida St', 'VCU', 'Arizona',
-     'Kansas', 'Michigan St', 'Iowa St', 'Vermont', 'Creighton', 'Oregon', 'Michigan', 'Louisville',
-     'UNC', 'Arkansas', 'Minnesota', 'Butler', 'Cincinnati', 'Kent St', 'Dayton', 'Kentucky',
+    'Villanova', 'Virginia', 'USC', 'Duke',
+    'Gonzaga', 'West Virginia', 'Xavier', 'Arizona',
+    'Kansas','Iowa St', 'Oregon','Louisville',
+    'UNC', 'MTSU', 'UCLA', 'Kentucky',
 ),
 
 'Suzie':
 (
-     'Villanova', 'Wisconsin', 'Virginia', 'Florida', 'SMU', 'Baylor', 'Marquette', 'Duke',
-     'Gonzaga', 'Vanderbilt', 'Notre Dame', 'Bucknell', 'Maryland', 'Florida St', 'VCU', 'Arizona',
-     'Kansas', 'Michigan St', 'Iowa St', 'Purdue', 'Rhode Island', 'Oregon', 'Michigan', 'Louisville',
-     'UNC', 'Seton Hall', 'Minnesota', 'Butler', 'Cincinnati', 'UCLA', 'Wichita St', 'Kentucky',
+    'Villanova', 'Virginia', 'Baylor', 'Duke',
+    'Gonzaga', 'Notre Dame', 'Xavier', 'Arizona',
+    'Kansas', 'Iowa St', 'Rhode Island', 'Louisville',
+    'UNC', 'Butler', 'UCLA', 'Kentucky',
 ),
 
 'Ryan':
 (
-    'Villanova', 'Wisconsin', 'Virginia', 'Florida', 'SMU', 'Baylor', 'South Carolina', 'Duke',
-    'Gonzaga', 'Vanderbilt', 'Notre Dame', 'West Virginia', 'Maryland', 'Florida St', 'VCU','Arizona',
-    'Kansas', 'Miami', 'Nevada', 'Vermont', 'Rhode Island', 'Oregon', 'Michigan', 'Louisville',
-    'UNC', 'Arkansas', 'MTSU', 'Butler', 'Cincinnati', 'UCLA', 'Wichita St', 'Kentucky',
+    'Villanova', 'Virginia', 'Baylor', 'Duke',
+    'Gonzaga', 'West Virginia', 'Florida St', 'Arizona',
+    'Kansas', 'Iowa St', 'Oregon', 'Louisville',
+    'UNC', 'MTSU', 'UCLA', 'Kentucky',
 ),
 
 'Kevin':
