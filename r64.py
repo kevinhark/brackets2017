@@ -10,7 +10,7 @@ winners = (
     'Florida',
     'USC',
     'Baylor',
-    None, #'South Carolina', 'Marquette',
+    'South Carolina',
     'Duke',
 
     # West
@@ -25,7 +25,7 @@ winners = (
 
     # East
     'Kansas',
-    None, #'Miami', 'Michigan St',
+    'Michigan St',
     'Iowa St',
     'Purdue',
     'Rhode Island',
@@ -38,10 +38,10 @@ winners = (
     'Arkansas',
     'MTSU',
     'Butler',
-    None, #'Cincinnati', 'Kansas St',
-    None, #'UCLA', 'Kent St',
+    'Cincinnati',
+    'UCLA',
     'Wichita St',
-    None, #'Kentucky', 'N Kentucky',
+    'Kentucky',
 )
 
 
