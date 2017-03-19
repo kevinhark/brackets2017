@@ -4,16 +4,16 @@ name = "Round of 32"
 
 winners = (
     # South
-    None, #'Villanova', 'Wisconsin',
+    'Wisconsin',
     None, #'Virginia', 'Florida',
     None, #'USC', 'Baylor',
     None, #'South Carolina', 'Duke',
 
     # West
-    None, #'Gonzaga', 'Northwestern',
+    'Gonzaga',
     'West Virginia',
-    None, #'Xavier', 'Florida St',
-    None, #'St Marys', 'Arizona',
+    'Xavier',
+    'Arizona',
 
     # East
     None, #'Kansas', 'Michigan St',
@@ -23,7 +23,7 @@ winners = (
 
     # Midwest
     None, #'UNC', 'Arkansas',
-    None, #'MTSU', 'Butler',
+    'Butler',
     None, #'Cincinnati', 'UCLA',
     None, #'Wichita St', 'Kentucky',
 )
@@ -35,7 +35,7 @@ picks= {
 (
     'Villanova', 'Virginia', 'USC', 'Duke',
     'Gonzaga', 'West Virginia', 'Florida St', 'St Marys',
-    'Michigan St', 'Iowa St', 'Oregon', 'n/a',
+    'Michigan St', 'Iowa St', 'Oregon', 'Michigan',
     'UNC', 'Butler', 'UCLA','Kentucky',
 ),
 
@@ -49,7 +49,7 @@ picks= {
 
 'Jerry':
 (
-    'Wisconsin', 'n/a', 'Baylor', 'Duke',
+    'Wisconsin', 'Virginia', 'Baylor', 'Duke',
     'Gonzaga','Notre Dame', 'Xavier', 'St Marys',
     'Kansas', 'Purdue', 'Oregon', 'Michigan',
     'UNC', 'Butler', 'UCLA', 'Kentucky',
