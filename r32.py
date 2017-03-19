@@ -5,7 +5,7 @@ name = "Round of 32"
 winners = (
     # South
     'Wisconsin',
-    None, #'Virginia', 'Florida',
+    'Florida',
     None, #'USC', 'Baylor',
     None, #'South Carolina', 'Duke',
 
@@ -17,7 +17,7 @@ winners = (
 
     # East
     None, #'Kansas', 'Michigan St',
-    None, #'Iowa St', 'Purdue',
+    'Purdue',
     None, #'Rhode Island', 'Oregon',
     None, #'Michigan', 'Louisville',
 
