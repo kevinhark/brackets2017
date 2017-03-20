@@ -6,7 +6,7 @@ winners = (
     # South
     'Wisconsin',
     'Florida',
-    None, #'USC', 'Baylor',
+    'Baylor',
     None, #'South Carolina', 'Duke',
 
     # West
@@ -19,7 +19,7 @@ winners = (
     'Kansas',
     'Purdue',
     'Oregon',
-    'Louisville',
+    'Michigan',
 
     # Midwest
     'UNC',
