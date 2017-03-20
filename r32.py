@@ -7,7 +7,7 @@ winners = (
     'Wisconsin',
     'Florida',
     'Baylor',
-    None, #'South Carolina', 'Duke',
+    'South Carolina',
 
     # West
     'Gonzaga',
@@ -24,7 +24,7 @@ winners = (
     # Midwest
     'UNC',
     'Butler',
-    None, #'Cincinnati', 'UCLA',
+    'UCLA',
     'Kentucky',
 )
 
