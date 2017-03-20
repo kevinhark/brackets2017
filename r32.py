@@ -16,16 +16,16 @@ winners = (
     'Arizona',
 
     # East
-    None, #'Kansas', 'Michigan St',
+    'Kansas',
     'Purdue',
-    None, #'Rhode Island', 'Oregon',
-    None, #'Michigan', 'Louisville',
+    'Oregon',
+    'Louisville',
 
     # Midwest
-    None, #'UNC', 'Arkansas',
+    'UNC',
     'Butler',
     None, #'Cincinnati', 'UCLA',
-    None, #'Wichita St', 'Kentucky',
+    'Kentucky',
 )
 
 
