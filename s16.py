@@ -8,12 +8,12 @@ winners = (
     None, #'Baylor', 'South Carolina',
 
     # West
-    None, #'Gonzaga', 'West Virginia',
-    None, #'Xavier', 'Arizona',
+    'Gonzaga',
+    'Xavier',
 
     # East
-    None, #'Kansas', 'Purdue',
-    None, #'Oregon', 'Michigan',
+    'Kansas',
+    'Oregon',
 
     # Midwest
     None, #'UNC', 'Butler',
