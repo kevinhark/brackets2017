@@ -4,8 +4,8 @@ name = "Sweet 16"
 
 winners = (
     # South
-    None, #'Wisconsin', 'Florida',
-    None, #'Baylor', 'South Carolina',
+    'Florida',
+    'South Carolina',
 
     # West
     'Gonzaga',
@@ -16,8 +16,8 @@ winners = (
     'Oregon',
 
     # Midwest
-    None, #'UNC', 'Butler',
-    None, #'UCLA', 'Kentucky',
+    'UNC',
+    'Kentucky',
 )
 
 
