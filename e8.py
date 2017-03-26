@@ -7,10 +7,10 @@ winners = (
     None, #'Florida', 'South Carolina',
 
     # West
-    None, #'Gonzaga', 'Xavier',
+    'Gonzaga',
 
     # East
-    None, #'Kansas', 'Oregon',
+    'Oregon',
 
     # Midwest
     None, #'UNC', 'Kentucky',
