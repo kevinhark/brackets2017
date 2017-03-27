@@ -4,7 +4,7 @@ name = "Elite 8"
 
 winners = (
     # South
-    None, #'Florida', 'South Carolina',
+    'South Carolina',
 
     # West
     'Gonzaga',
@@ -13,7 +13,7 @@ winners = (
     'Oregon',
 
     # Midwest
-    None, #'UNC', 'Kentucky',
+    'UNC',
 )
 
 
