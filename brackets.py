@@ -1,7 +1,7 @@
 import numpy as np
 import datetime
 from teams import seeds
-import r64, r32, s16, e8, f4 #, champ
+import r64, r32, s16, e8, f4, champ
 
 def score(rounds,file):
     scores = np.zeros((len(rounds),len(rounds[0].picks.keys())));
@@ -98,7 +98,7 @@ def print_html_end(file):
     file.write('<p>Updated: ' + str(datetime.datetime.now()) + ' Central DST</p>\n')
     file.write('</div></html></body>\n')
 
-rounds = (f4, e8, s16, r32, r64,) #(champ, f4, e8, s16, r32, r64,)
+rounds = (champ, f4, e8, s16, r32, r64,) #(champ, f4, e8, s16, r32, r64,)
 
 if __name__ == '__main__':
     file = open('index.html','w')
