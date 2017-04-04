@@ -3,7 +3,7 @@ weight = 160
 name = "Championship"
 
 winners = (
-    None, # 'Gonzaga','UNC',
+    'UNC',
 )
 
 
